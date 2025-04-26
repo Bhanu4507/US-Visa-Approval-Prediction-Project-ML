@@ -31,7 +31,7 @@ list_of_files = [
     ".dockerignore",
     "demo.py",
     "setup.py",
-    "kalla.py",
+    "kallaa.py",
     "config/model.yaml",
     "config/schema.yaml",
 ]
