@@ -30,6 +30,8 @@ list_of_files = [
     "Dockerfile",
     ".dockerignore",
     "demo.py",
+    "setup.py",
+    "Bhanu.py",
     "config/model.yaml",
     "config/schema.yaml",
 ]
